@@ -1,4 +1,5 @@
 💇 Hair Salon Management System
+
 📌 Overview
 
 Hair Salon Management System is a web application designed to simplify the daily operations of hair and barber salons.
